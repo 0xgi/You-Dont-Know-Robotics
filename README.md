@@ -18,5 +18,33 @@ This is a series of book focus into the core Robotics of the Arduino code & Java
 * [Creators](#Creators)
 * [Copyright and license](#copyright-and-license)
 
+## Quick start
+
+More coming soon. Work your robotics project
+
+## Basic electronics
+
+1. Electricity
+
+2. Resistor
+
+3. Capacitors
+
+4. Diodes
+
+5. Transitor
+
+6. Potentiometers
+
+7. Led
+
+8. Swiches
+
+9. Batteries
+
+10. Beadboards
+
+11. Wire
+
 
 
