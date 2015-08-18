@@ -12,7 +12,6 @@ This is a series of book focus into the core Robotics of the Arduino code & Java
 * [Javascript code](#javascript-code)
 * [Arduino with Javascript](#arduino-with-javascript)
 * [Documentation](#documentation)
-* [Contributing](#contributing)
 * [Community](#community)
 * [Versioning](#versioning)
 * [Creators](#Creators)
